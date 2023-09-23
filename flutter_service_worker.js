@@ -23,8 +23,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7ad82a2bd9afab6b5d8ee0d727625f56",
-"/": "7ad82a2bd9afab6b5d8ee0d727625f56",
+"index.html": "6025d9619f20ac50516b93557c053d36",
+"/": "6025d9619f20ac50516b93557c053d36",
 "main.dart.js": "b75f59421bee6eb260dbed3b4d8b6d2c",
 "manifest.json": "292335b48d90b02bea3f2bf28778b1db",
 "version.json": "a95ae97034b50e1d15bb19e840f530b5"};
