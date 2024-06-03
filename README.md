@@ -1,14 +1,13 @@
-# Device-Agnostic Design Course Project I - aefb0529-5609-478a-9e45-de618c79a3a0
+# Device-Agnostic Design Course Project I: Quiz App
 
-## Quiz App
+A simple cross-platform quiz app built with Flutter and Riverpod.
+View the app [here](https://evelynbirnzain.github.io/quiz-app/).
 
 ## Description
 
 This quiz app allows users to answer questions about a selection of topics. Users can see their progress overall and for
 each topic on a statistics page. It is also possible to specifically practice questions from those topics that the user
 does not have a lot of correct answers for yet.
-
-View the app [here](https://evelynbirnzain.github.io/quiz-app/).
 
 ## Challenges
 
